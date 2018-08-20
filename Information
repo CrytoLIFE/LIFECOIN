@@ -2,8 +2,8 @@
   "symbol": "LFC",
   "address": "0xA6E6b847BEF276F67E7D726616D6521e4e439e30",
   "overview":{
-        "en": "Token Description.",
-        "th": ""
+        "en": "The ERC20 Token to be used as the medium of exchange in Online LIFE World Platform.",
+        "th": "ERC20 โทเค่น บนอีธีเรียมบอลคเชน เนตเวิร์ค ที่จะนำไปใช้เป็นตัวกลางในการแลกเปลี่ยนบนแพลทฟอร์ม Online LIFE World"
   },
   "email": "bitcashout@gmail.com",
   "website": "https://bitcashout.wixsite.com/life",
